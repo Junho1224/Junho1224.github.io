@@ -120,9 +120,10 @@ DEPENDENCIES
   jekyll-relative-links
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-theme-hydejack (~> 9.1)
+  jekyll-theme-hydejack (~> 9.0)
   jekyll-titles-from-headings
   kramdown-math-katex
+  kramdown-parser-gfm
   tzinfo-data
   wdm
   webrick
