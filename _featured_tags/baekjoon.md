@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: 100joon
-slug: 100joon
+title: Baekjoon/Programmers
+slug: baekjoon/programmers
 category: study
 sidebar: true
 description: >
-   bowd
+   문제풀이
 ---
