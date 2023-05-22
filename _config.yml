@@ -175,7 +175,7 @@ kramdown:
 # Set which comment system to use
 comments:
   # 'disqus' / 'giscus' / 'utterances' are available
-  provider:            giscus
+  provider: giscus
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
