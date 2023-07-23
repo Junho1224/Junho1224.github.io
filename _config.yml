@@ -80,7 +80,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # 여기
-theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack #이거임 이거
 # remote_theme: hydecorp/hydejack@v9
 
 
