@@ -222,8 +222,8 @@ lightbox:              true
 # These settings are specific to Hydejack.
 
 hydejack:
-  # Configure the order of complementary content on blog posts
-  post_addons:         [about, comments]
+  # Configure the order of complementary content on blog posts # 순서대로 배치됨.
+  post_addons:         [about, related, comments]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, other, comments]
