@@ -80,8 +80,8 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # 여기
-# theme: jekyll-theme-hydejack  #로컬
-remote_theme: hydecorp/hydejack@v9 #블로그
+theme: jekyll-theme-hydejack  #로컬
+# remote_theme: hydecorp/hydejack@v9 #블로그
 
 
 # Customizaton
