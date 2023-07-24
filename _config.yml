@@ -79,7 +79,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# 여기
+# 여기여기durl여기
 # theme: jekyll-theme-hydejack  #로컬
 remote_theme: hydecorp/hydejack@v9 #블로그
 
@@ -457,3 +457,18 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+
+## 검색 기능
+
+## include 부분의 pages: false​의 설정은 pages 레이아웃에 해당하는 일반 html페이지는 검색하지 않겠다는 것을 의미
+## exclude 부분의 ​search.html, index.html, tags.html​ 페이지는 검색에서 제외하겠다는 것을 의미
+
+tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
