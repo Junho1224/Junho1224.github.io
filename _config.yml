@@ -206,7 +206,7 @@ giscus:
   data-lang:           "ko"
   crossorigin:         "anonymous"
 
-lightbox:              true
+lightbox: true
 
 
 
